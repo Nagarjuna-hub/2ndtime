@@ -1,1 +1,4 @@
 I'm a fixed file
+
+New modified fix
+
